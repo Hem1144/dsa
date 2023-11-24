@@ -1,4 +1,4 @@
-// 1st method
+//! 1st method
 const arr = [0, 0, 2, 2, 3, 4, 4, 5];
 
 function removeDuplicate() {
@@ -19,7 +19,7 @@ function removeDuplicate() {
 console.log(removeDuplicate(arr));
 console.log(arr);
 
-// 2nd method
+//! 2nd method
 function removeDuplicates(arr) {
   if (arr.length === 0) {
     return 0;
