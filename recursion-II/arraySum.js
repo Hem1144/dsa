@@ -13,4 +13,4 @@ function arraySum(arr) {
 }
 
 console.log(arraySum([8, [6, [7, 5, 3], [0, 9]]]));
-// console.log(arraySum([1, 2, 3, 4, 5]));
+console.log(arraySum([1, 2, 3, 4, 5, 6, 7]));
